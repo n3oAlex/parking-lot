@@ -17,3 +17,7 @@ curl -i localhost:8080/healthz        # 200 ok
 ```
 
 MIT licensed.
+
+## Deployment
+
+Deployed by Dokploy from `main` (Dockerfile build, auto-deploy on push). Health check: `GET /healthz`.
