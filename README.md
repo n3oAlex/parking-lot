@@ -21,3 +21,7 @@ MIT licensed.
 ## Deployment
 
 Deployed by Dokploy from `main` (Dockerfile build, auto-deploy on push). Health check: `GET /healthz`.
+
+## Hosts
+
+Currently parked: hanak.sh, n3o.gg, n3oalex.com, n3oalex.dev (apex, www, wildcard) plus wildcard subdomains of hanak.dev and homebase.sh.
